@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/jasypt-1.9.2.jar" sourcepath="C:/Users/racca/.m2/repository/org/jasypt/jasypt/1.9.2/jasypt-1.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/core-3.2.0.jar" sourcepath="C:/Users/racca/.m2/repository/com/google/zxing/core/3.2.0/core-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/local_policy.jar"/>
+	<classpathentry kind="lib" path="lib/US_export_policy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
