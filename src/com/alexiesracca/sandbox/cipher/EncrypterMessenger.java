@@ -21,10 +21,10 @@ public class EncrypterMessenger {
     
 public static void basicTestEncryptor2() { 
         
-            String PLAIN_TEXT = "SDEV29";
+            String PLAIN_TEXT = "TESTTEXT";
 
-        String saltPwd = "Sw1fttS47T";
-        String saltPwd2 = "Sw1fttS47T";
+        String saltPwd = "S0m3SecPwd";
+        String saltPwd2 = "S0m3SecPwd";
         
 
             BasicTextEncryptor encryptor1 = new BasicTextEncryptor(); 
